@@ -1,4 +1,4 @@
-import org.example.ClientHandler;
+package org.example;
 
 import java.io.IOException;
 import java.net.ServerSocket;
